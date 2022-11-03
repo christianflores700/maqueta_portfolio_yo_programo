@@ -38,3 +38,31 @@ h3.intro{
     padding-top: 5%;
     text-shadow: 1px 1px 10px  rgb(255, 255, 255, 1);
 }
+p, cite{
+    font-size: 1rem;
+    padding-top: 5%;
+    text-shadow: 1px 1px 10px  rgb(255, 255, 255, 1);
+    text-align: right;
+   margin-block:;
+   margin-right: 2rem;  
+}
+.acerca_de, .experiencia, .hard{
+    background-image:linear-gradient(
+        rgba(0,0,0,0.1),
+        rgba(0,0,0,0.4)
+    ), url(../img/PM\ \(502\).jpg);
+}
+.acerca_de, .experiencia, .hard{ 
+    font-size: 1rem;
+    padding-top: 1%;
+    text-shadow: 1px 1px 10px  rgb(255, 255, 255, 1);
+   
+}
+p,i{
+    text-align: center;
+    padding-top: 1rem;
+    font-size:medium;
+}
+h5,p{
+    font-size:xx-large;
+}
