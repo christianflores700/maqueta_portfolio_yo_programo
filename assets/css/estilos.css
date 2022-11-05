@@ -76,3 +76,10 @@ h5,p{
 .experiencia{
     padding-top: 1rem;
 }
+
+.login{
+    height: 80vh;
+}
+.estructura_login{
+    margin-top: 15%;
+}
